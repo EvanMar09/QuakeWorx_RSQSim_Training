@@ -3,3 +3,11 @@ The model run is the same as the "Connected Uniform" model from Marschall et al.
 
 Files in the folder.
 
+run_bay_Qworxs.in: this is the main input file, for the example I have set the WriteParams (WriteSlip, WriteStress, etc) to zero because these files can be quite large and are not needed for basic catalog analysis.
+East_Bay_Updated_Connected_HSR3.flt: This is the fault file with triangular elements and sliprates
+neighbor_connected_updated.txt: Neighbor file of nearby elements in the fault file.
+
+
+
+
+
