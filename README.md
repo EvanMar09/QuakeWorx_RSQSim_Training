@@ -1,5 +1,7 @@
 This repository hosts input files and python scripts for conducting RSQSim models through the Quakeworx gateway platform.
 
+** Before running the examples please adapt the filename.in files and run a smaller test first. Some of these examples need thousands of CPU hours. **
+
 ## If you use RSQSim for your research please cite the following three studies:
 
 Dieterich,1995: https://npg.copernicus.org/articles/2/109/1995/npg-2-109-1995.pdf
